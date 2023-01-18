@@ -1,5 +1,6 @@
-# RPG-Frameworks
-a few frameworks good for making games, notably RPG based games.
+# RPG-BOX A-1
+a small collection of assets, frameworks, and systems, made to speedup and make creating RPGs or just games in general much faster and more fun!
 
+all assets in RPG-box are free and open source, please credit me if using them (not needed however).
 
-you may use the frameworks and tools in this project as you please, but please credit me if releasing the game.
+my goal is to make making games as easy fun and straight forward as I can
