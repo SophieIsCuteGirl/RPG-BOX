@@ -1,7 +1,6 @@
-# RPG-Mining-Sim
-a small RPG based mining simulator
+# RPG-BOX A-1
+a small collection of assets, frameworks, and systems, made to speedup and make creating RPGs or just games in general much faster and more fun!
 
+all assets in RPG-box are free and open source, please credit me if using them (not needed however).
 
-this is a small game made in unity, this GitHub project is mostly so people can see my framework and use it themselves or to learn a few things or give feedback.
-
-you may use the frameworks or ideas used in this project for free without giving credit to me, though credit would be appricheiated. however please do not clone the entire game and upload it as your own.
+my goal is to make making games as easy fun and straight forward as I can
