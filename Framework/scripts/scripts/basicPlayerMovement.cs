@@ -47,7 +47,6 @@ public class BasicPlayerMovement : MonoBehaviour
             print("e");
             if (Physics.Raycast(ray, out hit, distance))
             {
-                print(hit.collider.name);
                 if (hit.collider.gameObject.CompareTag("button"))
                 {
                     hit.collider.gameObject.GetComponent<buttonHandler>().Press(hit.collider.name);
