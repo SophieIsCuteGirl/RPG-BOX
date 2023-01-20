@@ -7,7 +7,6 @@ public class buttonHandler : MonoBehaviour
     public GameObject GM;
     public void Press(string buttonID)
     {
-        print("pre-worked");
         if (buttonID == "loadButton")
         {
             print("worked");
