@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374ac00b9fc7c8f4c93ffcefdc3ca875, type: 3}
+  m_Name: diamondSword
+  m_EditorClassIdentifier: 
+  inputItems:
+  - {fileID: 11400000, guid: 8cb443ca8da282d40aa5301bf4a7c78d, type: 2}
+  - {fileID: 11400000, guid: 87dcfca549a98504fbda98d507d91a68, type: 2}
+  - {fileID: 11400000, guid: 9897167f9643f7442848ffb7f71da7f9, type: 2}
+  outputItems:
+  - {fileID: 0}
